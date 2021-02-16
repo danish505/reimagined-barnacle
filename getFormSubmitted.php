@@ -4,7 +4,7 @@ https://api.hubapi.com/form-integrations/v1/submissions/forms/583d14ff-91af-403d
 
 
 $config = array(
-'url' => 'https://api.hubapi.com/form-integrations/v1/submissions/forms/48f4b7f8-79ac-49b6-862d-af277bb55fcf?hapikey=fbb8b9ee-fd9d-4672-807c-91386dda8abc');
+'url' => 'https://api.hubapi.com/form-integrations/v1/submissions/forms/48f4b7f8-79ac-49b6-862d-af277bb55fcf?hapikey=');
 $headers = array(
 'Content-Type: application/json',
 );
